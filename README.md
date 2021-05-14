@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ApurwaLad
-- 👀 I’m interested in data science and machine learning specifically applied but not restricted to biotechnolgy
-- 🌱 I’m currently learning python and data science
+- 👋 Hi, I’m @ApurwaLad.
+- 👀 I’m interested in data science and machine learning specifically applied but not restricted to biotechnology.
+- 🌱 I’m currently learning python and data science.
 
 
 <!---
